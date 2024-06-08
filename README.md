@@ -1,2 +1,2 @@
-# Jimmy-s-Online-Resume-2
+# Jimmy-s-Online-Resume
 Jimmy's online resume and his contact information
